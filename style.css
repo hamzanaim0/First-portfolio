@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header h1{
+ text-align: center;
+ font-size: 3rem;
+ padding: 10rem;
+}
+.picture-in-picture{
+
+background-image: url(https://images.pexels.com/photos/20135107/pexels-photo-20135107/free-photo-of-mueller-hut-adventure.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+nav{
+    background-color: rgb(190, 190, 168);
+    text-align: center;
+    padding: 0.70rem;
+ }
+ 
+ nav ul li {
+    display: inline-block;
+ }
+ nav ul li a {
+    margin: 3rem;
+    text-decoration: none;
+    color: black;
+    font-size: 1.3rem;
+ }
+ .header-picture{
+    text-align: center;
+ }
+ #first{
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(96, 94, 94);
+    background-color: bisque;
+    margin-bottom: 1rem;
+    margin-top: 30rem;
+    border-radius: 2rem;
+    padding: 1rem;
+
+ }
+ .Experience-section{
+  padding-top: 50rem;
+  padding-bottom: 5rem;
+  text-align:  center;
+ }
+ .Experience-section h1{
+    background-color: bisque;
+    margin: 1.5rem;
+    border-radius: 2rem;
+    font-size: 1.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(96, 94, 94);
+    padding-bottom: 1rem;
+ }
+ .Experience-section ul li{
+    padding: 1.2rem;
+    background-color: skyblue;
+    font-size: 1.3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+ .Experience-section ul dd{
+    background-color: beige;
+    font-size: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+     }
+
+.Contacts-section{
+    padding-top: 50rem;
+}
+.Contacts-section h1{
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(96, 94, 94);
+    background-color: bisque;
+    margin: 1.5rem;
+    border-radius: 2rem;
+}
+.Contacts-section p{
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
